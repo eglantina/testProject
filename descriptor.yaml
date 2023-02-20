@@ -1,0 +1,5 @@
+code: testProject
+description: Template for simple cards design
+components:
+ widgets:
+   - ui/testfe/cards-descriptor.yaml
