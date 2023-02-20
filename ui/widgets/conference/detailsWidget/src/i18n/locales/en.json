@@ -1,0 +1,20 @@
+{
+  "error": {
+    "dataLoading": "Error during server connection"
+  },
+  "common": {
+    "widgetName": "Details about '{{widgetNamePlaceholder}}'",
+    "name": "Name",
+    "value": "Value",
+    "loading": "Loading...",
+    "notAuthenticated": "User is not authenticated."
+  },
+  "entities": {
+    "conference": {
+      "id": "ID",
+      "id": "entities.conference.id",
+      "name": "entities.conference.name",
+      "date": "entities.conference.date"
+    }
+  }
+}
